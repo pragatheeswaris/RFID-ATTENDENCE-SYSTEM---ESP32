@@ -66,6 +66,7 @@ The RFID Based Attendance System using ESP32, MFRC522 RFID Reader, RTC (DS1307),
 
 -> Based on validation:
 -> ENTRY or EXIT is determined
+
 -> Attendance is uploaded to Firebase in real time
 
 -> All status messages are displayed on the Serial Monitor
@@ -74,6 +75,7 @@ The RFID Based Attendance System using ESP32, MFRC522 RFID Reader, RTC (DS1307),
   # ✅ Case 1: Registered Card + Allowed Entry Time
 
 Attendance is marked successfully
+
 Serial Output:
 
     RFID Detected
@@ -84,6 +86,7 @@ Serial Output:
 # ❌ Case 2: Registered Card + Late Entry
 
 Attendance NOT marked
+
 Serial Output:
 
     RFID Detected
@@ -93,6 +96,7 @@ Serial Output:
 # ❌ Case 3: Exit After Allowed Time
 
 Exit NOT allowed
+
 Serial Output:
 
     RFID Detected
@@ -102,6 +106,7 @@ Serial Output:
 # ❌ Case 4: Unregistered Card
 
 Attendance NOT marked
+
 Serial Output:
 
     Unknown Card Detected
