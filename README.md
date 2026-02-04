@@ -1,7 +1,5 @@
 ## RFID-ATTENDENCE-SYSTEM---ESP32
 
-<img width="101" height="180" alt="image" src="https://github.com/user-attachments/assets/e5d367cc-1eab-416e-a6e3-a39d3a255fc5" />
-
 # 📌 RFID Based Attendance System Using ESP32, RTC & Firebase
 # 📝 Project Overview
 
@@ -25,12 +23,16 @@ The RFID Based Attendance System using ESP32, MFRC522 RFID Reader, RTC (DS1307),
 
 -> ESP32 Development Board
 
--> MFRC522 RFID Reader Module
+<img width="101" height="180" alt="image" src="https://github.com/user-attachments/assets/e5d367cc-1eab-416e-a6e3-a39d3a255fc5" />
 
+-> MFRC522 RFID Reader Module 
 -> RFID Cards / Tags
-<img width="180" height="180" alt="image" src="https://github.com/user-attachments/assets/f77bec9a-ea70-48bc-8acc-b895fe850f1a" />
+
+<img width="180" height="180" alt="image" src="https://github.com/user-attachments/assets/361204bb-ba33-491a-9eda-f577b1750aad" />
 
 -> RTC Module (DS1307)
+
+<img width="180" height="180" alt="image" src="https://github.com/user-attachments/assets/f77bec9a-ea70-48bc-8acc-b895fe850f1a" />
 
 -> WiFi Network
 
